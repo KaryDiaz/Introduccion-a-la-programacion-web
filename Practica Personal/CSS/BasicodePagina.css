@@ -1,0 +1,28 @@
+/* BASICO DE CADA PAGINA */
+*{ 
+ margin: 0px;
+ padding: 0px;}
+
+.Centrar{ 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+   transform: translate(-50%, -50%)}  
+
+.Sombras{text-shadow: 0px 0px 5px white;}
+
+.CentrarTexto{ text-align: center;}
+/* -------------------------------------------------------------- */
+
+
+/* AJUSTAR IMAGENES */
+
+.CentrarImagenes{ margin-left: 50%; transform: translate(-50%);}
+
+.ImagenDerecha{  float:right; margin-left: 10px; margin-right: 5px;}
+
+.ImagenIzquierda{ float:left; margin-left: 5px; margin-right: 10px;}
+/* -------------------------------------------------------------- */
+
+
+

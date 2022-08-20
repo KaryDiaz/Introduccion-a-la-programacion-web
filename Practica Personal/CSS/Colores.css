@@ -1,0 +1,23 @@
+span{
+    background-color: rgb(132, 0, 255)
+    ;
+color: wheat;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+}
+h2{ color: blue;
+}
+
+h3{ color: blue;
+
+}
+
+em{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: red;
+
+}
+i{ color: brown;
+font-size: xx-large;}
